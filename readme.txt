@@ -1,7 +1,3 @@
-
-
-
-
 Web App for Restaurants [Python]
 
 Web Application Dashboard for restaurants to register, create Meals and monitor Orders.
